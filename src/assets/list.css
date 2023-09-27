@@ -1,0 +1,38 @@
+
+.list-container{
+    display: flex;
+    width: 90%;
+    max-width: 800px;
+    align-items: center;
+    margin: 0 auto;
+    background-color: rgb(23, 55, 123);
+    border-radius: 5px;
+    padding:.4em .5em;
+    border: 2px solid #ccc;
+    margin-bottom: 1em;
+    box-shadow: 1px 13px 6px -5px rgba(0,0,0,0.75);
+}
+
+#info{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    overflow:auto;
+    margin-left: 1em;
+}
+
+#info p{
+    margin:.5em;
+}
+
+#cataegory{
+    color: white;
+    margin: .75em;
+    margin-left: auto;
+    text-align: center;
+    padding:1em;
+    padding-top:em;
+    background-color: #02153f;
+    border-radius: 5px;
+}
+
