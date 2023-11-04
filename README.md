@@ -1,6 +1,3 @@
-#Deployed Link
-
-https://todolistapp-ikw8.onrender.com/
 
 # About Application
 
@@ -25,7 +22,7 @@ Steps to set the project on local system :
 
     5. All done you are good to go.
 
-Link : https://6546683962a9b2230cdf6315--dynamic-alpaca-11a3b5.netlify.app    
+Live at : https://6546683962a9b2230cdf6315--dynamic-alpaca-11a3b5.netlify.app    
 
 ## Available Scripts
 
