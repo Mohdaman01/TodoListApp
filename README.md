@@ -4,7 +4,7 @@ https://todolistapp-ikw8.onrender.com/
 
 # About Application
 
-A Todo List web application build with React and React-Bootstrap.
+A Todo List web application build with React, React-Bootstrap and firebase.
 
 It has Clean UI/UX and lots for features llke adding, removing tasks, completing tasks and Reseting the whole list.
 
@@ -21,7 +21,11 @@ Steps to set the project on local system :
 
     3. Open any code editor of your choice and type "npm install"
 
-    4. All done you are good to go.
+    4. Paste firebaseConfig object in config/firebase.js file from your firebase console.
+
+    5. All done you are good to go.
+
+Link : https://6546683962a9b2230cdf6315--dynamic-alpaca-11a3b5.netlify.app    
 
 ## Available Scripts
 
