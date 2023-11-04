@@ -7,12 +7,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyB_hsyGXNMmTrhqIxV4IABBovA1rlHiS5E",
-    authDomain: "reactauth-642ca.firebaseapp.com",
-    projectId: "reactauth-642ca",
-    storageBucket: "reactauth-642ca.appspot.com",
-    messagingSenderId: "899095379826",
-    appId: "1:899095379826:web:39c07d1ec63b5f3088e7eb"
+   // Paste your firebaseCongig object
   };
 
 // Initialize Firebase
